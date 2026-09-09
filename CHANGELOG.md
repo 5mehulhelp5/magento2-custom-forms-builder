@@ -6,6 +6,10 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 ### Added
 
+## [102.3.21] - 2026-09-09
+### Fixed
+- Load form all attributes by form, it fixes issue with loading more forms in same execution (for example in cron job)
+
 ## [102.3.20] - 2026-04-16
 - use created_from_store_id to get form from record (used for correct form data in emails notifications)
 
